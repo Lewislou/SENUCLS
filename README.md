@@ -28,12 +28,13 @@ Before training:
 
 - Set path to the data directories in `config.py`
 - Set path where checkpoints will be saved  in `config.py`
-- Set path to pretrained VAN-base weights in `models/hovernet/opt.py`. Download the weights [here](https://drive.google.com/file/d/1ne9rpzimYh7EyaUU5kfDd2nDzl04LJ5v/view?usp=sharing).
-- Modify hyperparameters, including number of epochs and learning rate in `models/hovernet/opt.py`.
+- Set path to pretrained VAN-base weights in `models/senucls/opt.py`. Download the weights [here](https://drive.google.com/file/d/1ne9rpzimYh7EyaUU5kfDd2nDzl04LJ5v/view?usp=sharing).
+- Modify hyperparameters, including number of epochs and learning rate in `models/senucls/opt.py`.
+- Set edge number, point number and class weights for Focal loss in `models/senucls/run_desc.PY`.
 
 - To initialise the training script with GPUs 0, the command is:
 ```
-python run_train.py --gpu='0,1' 
+python run_train.py --gpu='0' 
 ```
 
 ## Inference
