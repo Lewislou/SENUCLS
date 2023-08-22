@@ -12,7 +12,7 @@ pip install torch-geometric torch-scatter torch-sparse
 ```
 
 ## Datasets
-We released a new nuclei segmentation and classification dataset called FFPE-CRC dataset. The images are 1000 x 1000 patches from the TCGA dataset (The Cancer Genome Atlas. https://tcga-data.nci.nih.gov/docs/publications/tcga) and labeled by experts in our local hospitals. The nuclei types of the CRC-FFPE dataset include Tumor, Stroma, Immune, Necrosis, and Other. These images are divided into a training set (45 tiles) and a testing set (14 tiles).
+<!-- We released a new nuclei segmentation and classification dataset called FFPE-CRC dataset. The images are 1000 x 1000 patches from the TCGA dataset (The Cancer Genome Atlas. https://tcga-data.nci.nih.gov/docs/publications/tcga) and labeled by experts in our local hospitals. The nuclei types of the CRC-FFPE dataset include Tumor, Stroma, Immune, Necrosis, and Other. These images are divided into a training set (45 tiles) and a testing set (14 tiles). -->
 - [CoNSeP](https://www.sciencedirect.com/science/article/pii/S1361841519301045)
 - [PanNuke](https://arxiv.org/abs/2003.10778)
 - [MoNuSAC](https://ieeexplore.ieee.org/abstract/document/8880654)
