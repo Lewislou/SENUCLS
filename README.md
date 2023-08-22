@@ -1,7 +1,7 @@
 # SENUCLS
 This is the official PyTorch implementation of paper - <Structure Embedded Nucleus Classification for Histopathology Images>, a graph neural network based method for nuclei classification. The framework consists of a pixel-wise feature extraction branch (upper) and an instance-level classification branch (lower) using the inter-nucleus Graph Structure Learning module (GSL). 
 In the GSL module, an intra-nucleus Polygon Structure Learning module (PSL) computes the shape features of nuclei. Then the input image is transformed into a graph and a GNN enhances the features of the graph nodes for nuclei classification.
-Part of these codes including WSI inference and metrics computation are from the implementation of Hover-Net(https://github.com/vqdang/hover_net/).
+Part of these codes including WSI inference and metrics computation are from the implementation of [Hover-Net](https://github.com/vqdang/hover_net/).
 
 > **If you intend to use anything from this repo, citation of the original publication given above is necessary**
 
