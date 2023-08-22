@@ -1,15 +1,5 @@
 # SENUCLS
-
-@misc{lou2023structure,
-      title={Structure Embedded Nucleus Classification for Histopathology Images}, 
-      author={Wei Lou and Xiang Wan and Guanbin Li and Xiaoying Lou and Chenghang Li and Feng Gao and Haofeng Li},
-      year={2023},
-      eprint={2302.11416},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-
-This is the official PyTorch implementation of SENUCLS, a graph neural network based method for nuclei classification.
+This is the official PyTorch implementation of paper - Structure Embedded Nucleus Classification for Histopathology Images, a graph neural network based method for nuclei classification.
 
 > **If you intend to use anything from this repo, citation of the original publication given above is necessary**
 
@@ -113,12 +103,12 @@ If any part of this code is used, please give appropriate citation to our paper.
 
 BibTex entry: <br />
 ```
-@article{graham2019hover,
-  title={Hover-net: Simultaneous segmentation and classification of nuclei in multi-tissue histology images},
-  author={Graham, Simon and Vu, Quoc Dang and Raza, Shan E Ahmed and Azam, Ayesha and Tsang, Yee Wah and Kwak, Jin Tae and Rajpoot, Nasir},
-  journal={Medical Image Analysis},
-  pages={101563},
-  year={2019},
-  publisher={Elsevier}
+@misc{lou2023structure,
+      title={Structure Embedded Nucleus Classification for Histopathology Images}, 
+      author={Wei Lou and Xiang Wan and Guanbin Li and Xiaoying Lou and Chenghang Li and Feng Gao and Haofeng Li},
+      year={2023},
+      eprint={2302.11416},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
