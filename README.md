@@ -1,5 +1,5 @@
 # SENUCLS
-This is the official PyTorch implementation of paper - Structure Embedded Nucleus Classification for Histopathology Images, a graph neural network based method for nuclei classification.
+This is the official PyTorch implementation of paper - <Structure Embedded Nucleus Classification for Histopathology Images>, a graph neural network based method for nuclei classification.
 
 > **If you intend to use anything from this repo, citation of the original publication given above is necessary**
 
