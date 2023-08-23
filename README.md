@@ -6,6 +6,8 @@ Part of these codes including WSI inference and metrics computation are from the
 
 > **If you intend to use anything from this repo, citation of the original publication given above is necessary**
 
+![](diagram/structure.png)
+
 ## Set Up Environment
 ```
 conda env create -f environment.yml
