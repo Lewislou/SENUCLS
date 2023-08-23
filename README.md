@@ -4,7 +4,7 @@ This is the official PyTorch implementation of SENUCLS, a graph neural network b
 
 In the GSL module, an intra-nucleus Polygon Structure Learning module (PSL) computes the shape features of nuclei. Then the input image is transformed into a graph and a GNN enhances the features of the graph nodes for nuclei classification.
 
-Part of these codes including WSI inference and metrics computation are from the implementation of [Hover-Net](https://github.com/vqdang/hover_net/).
+Part of the codes are from the implementation of [Hover-Net](https://github.com/vqdang/hover_net/).
 
 > **If you intend to use anything from this repo, citation of the original publication given above is necessary**
 
