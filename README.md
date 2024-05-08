@@ -113,12 +113,11 @@ If any part of this code is used, please give appropriate citations to our paper
 
 BibTex entry: <br />
 ```
-@misc{lou2023structure,
-      title={Structure Embedded Nucleus Classification for Histopathology Images}, 
-      author={Wei Lou and Xiang Wan and Guanbin Li and Xiaoying Lou and Chenghang Li and Feng Gao and Haofeng Li},
-      year={2023},
-      eprint={2302.11416},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{lou2024structure,
+  title={Structure embedded nucleus classification for histopathology images},
+  author={Lou, Wei and Wan, Xiang and Li, Guanbin and Lou, Xiaoying and Li, Chenghang and Gao, Feng and Li, Haofeng},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2024},
+  publisher={IEEE}
 }
 ```
