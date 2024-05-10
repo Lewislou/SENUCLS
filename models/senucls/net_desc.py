@@ -218,5 +218,5 @@ class SeNuclsNet(Net):
 def create_model(mode=None, **kwargs):
     if mode not in ['original', 'fast']:
         assert "Unknown Model Mode %s" % mode
-    return HoVerNet(mode=mode, **kwargs)
+    return SeNuclsNet(mode=mode, **kwargs)
 
